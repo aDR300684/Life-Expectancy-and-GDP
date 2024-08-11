@@ -2,6 +2,8 @@
 
 This project investigates the correlation between the economic output of a country (measured by GDP) and the life expectancy of its citizens. The analysis is based on data from six nations over a period of 15 years (2000-2015).
 
+To explore the full analysis, open the `Life_Expectancy_GDP.ipynb` Jupyter Notebook, which contains detailed explanations, visualizations, and conclusions drawn from the data.
+
 ## Project Overview
 
 The primary objectives of this project are to:
