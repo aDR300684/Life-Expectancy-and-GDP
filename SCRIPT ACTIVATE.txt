@@ -1,0 +1,4 @@
+cd "C:/Users/adrco/Projects/Data Science/Life_Expectancy_and_GDP"
+source Scripts/activate
+
+desactivate : deactivate

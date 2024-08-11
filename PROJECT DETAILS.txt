@@ -1,0 +1,19 @@
+Local Project Details
+Project Location:
+
+Path: C:/Users/adrco/Projects/Data Science/Life_Expectancy_and_GDP
+This folder contains all the project files, including datasets, Jupyter notebooks, and the virtual environment.
+Dataset:
+
+Name: all_data.csv
+Jupyter Notebook:
+
+Name: life_expectancy_gdp.ipynb
+Virtual Environment:
+
+Name: Life_Expectancy_and_GDP
+Location: Inside the project folder at C:/Users/adrco/Projects/Data Science/Life_Expectancy_and_GDP
+GitHub Repository Details
+Repository Name: Life-Expectancy-and-GDP
+GitHub URL: https://github.com/aDR300684/Life-Expectancy-and-GDP
+This repository now contains all the project files, including the dataset (all_data.csv) and the notebook (life_expectancy_gdp.ipynb), and it is linked to the local project directory.
